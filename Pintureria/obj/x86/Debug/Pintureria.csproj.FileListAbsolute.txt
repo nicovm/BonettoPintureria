@@ -1,0 +1,1710 @@
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Pintureria.pdb
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Entidades.dll
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Negocio.dll
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Datos.dll
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+H:\Bonetto\Pintureria\Pintureria\bin\Debug\Datos.pdb
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+H:\Bonetto\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+H:\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe.config
+H:\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.exe
+H:\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Dropbox\TabLink\Bonetto Pinureria\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.BsqProveedor.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmCantidad.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmCompra.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria2\Pintureria\obj\x86\Debug\Pintureria.frmCtaCorriente.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria nico\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria GERA\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\Pintureria\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\Pintureria gera\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.csproj.GenerateResource.Cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\CobrarVentas.rpt
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\CobrarVentas.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\CobrarVentas.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\CobrarVentas.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVentaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.frmNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Pintureria\obj\x86\Debug\Pintureria.ABMNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\CobrarVentas.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\CobrarVentas.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVentaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\CobrarVentas.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\CobrarVentas.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crPedido.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVentaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\CobrarVentas.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crCajaDiaria.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crPedido.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crPresupuesto.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crRemitoVenta.rpt
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\CobrarVentas.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crCajaDiaria.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crPedido.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crPresupuesto.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\crRemitoVenta.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.Designer.cs
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsc
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xsd
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\dsCajaDiaria.xss
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Pintureria.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMClientes.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMMarcas.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMRubros.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVendedores.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ABMVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.ctrlHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAbonado.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAgrNvoDetalle.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmAplicarRecargo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmBsqProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmArticulo.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Caja.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCajaInicial.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCliente.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCobrarVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfImportacion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfPedido.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfVentaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmFecPresupuesto.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmHojaExcel.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmImportarLista.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmInicioSesion.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmNotaCredito.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPedidos.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmConfVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmLocalidad.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmPerfil.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmProveedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmRptVisor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmTipoListaImportar.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVendedor.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmVenta.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.mdiMenu.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.Properties.Resources.resources
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Pintureria\obj\x86\Debug\Pintureria.frmCuentaCorriente.resources

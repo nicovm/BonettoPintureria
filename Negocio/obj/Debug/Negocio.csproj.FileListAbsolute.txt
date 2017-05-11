@@ -1,0 +1,279 @@
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Negocio.dll
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Negocio.pdb
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Datos.dll
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Entidades.dll
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Datos.pdb
+H:\Bonetto\Pintureria\Negocio\bin\Debug\Entidades.pdb
+H:\Bonetto\Pintureria\Negocio\obj\Debug\ResolveAssemblyReference.cache
+H:\Bonetto\Pintureria\Negocio\obj\Debug\Negocio.dll
+H:\Bonetto\Pintureria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria gera\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria2\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria2\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria2\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Negocio\obj\Debug\Negocio.pdb

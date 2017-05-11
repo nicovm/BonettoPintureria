@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{0F00D04B-63FD-4F06-B5E0-9C8109399D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{E6A462A0-476D-471B-B157-D4A26C142DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pintureria", "Pintureria\Pintureria.csproj", "{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bonetto Pintureria", "Bonetto Pintureria\Bonetto Pintureria.vdproj", "{C3368E22-039A-45DD-AC99-EF7619B8DE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0F00D04B-63FD-4F06-B5E0-9C8109399D21}.Release|x86.ActiveCfg = Release|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E6A462A0-476D-471B-B157-D4A26C142DB3}.Release|x86.ActiveCfg = Release|Any CPU
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Debug|x86.ActiveCfg = Debug|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Debug|x86.Build.0 = Debug|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Release|Any CPU.ActiveCfg = Release|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Release|x86.ActiveCfg = Release|x86
+		{99FEEEF9-F9E9-4FB4-AC0E-EAA97F0E129C}.Release|x86.Build.0 = Release|x86
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B09D3D67-79B3-4F72-8DED-D9F4E57FA176}.Release|x86.ActiveCfg = Release|Any CPU
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Debug|x86.ActiveCfg = Debug|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Debug|x86.Build.0 = Debug|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Release|Any CPU.ActiveCfg = Release|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Release|x86.ActiveCfg = Release|x86
+		{1DA6CF90-B9E6-40FB-B234-EAFF5911D36E}.Release|x86.Build.0 = Release|x86
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Debug|Any CPU.ActiveCfg = Debug
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Debug|x86.ActiveCfg = Debug
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Release|Any CPU.ActiveCfg = Release
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Release|Mixed Platforms.ActiveCfg = Release
+		{C3368E22-039A-45DD-AC99-EF7619B8DE36}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

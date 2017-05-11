@@ -1,0 +1,320 @@
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Test.exe.config
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Test.exe
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Test.pdb
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\obj\x86\Debug\Test.exe
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\obj\x86\Debug\Test.pdb
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Datos.dll
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Entidades.dll
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Datos.pdb
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\bin\Debug\Entidades.pdb
+c:\users\bringa\documents\visual studio 2010\Projects\Pintureria\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria\Test\obj\x86\Debug\Test.pdb
+H:\Bonetto\Pintureria\Test\bin\Debug\Test.exe.config
+H:\Bonetto\Pintureria\Test\bin\Debug\Test.exe
+H:\Bonetto\Pintureria\Test\bin\Debug\Test.pdb
+H:\Bonetto\Pintureria\Test\bin\Debug\Datos.dll
+H:\Bonetto\Pintureria\Test\bin\Debug\Entidades.dll
+H:\Bonetto\Pintureria\Test\bin\Debug\Datos.pdb
+H:\Bonetto\Pintureria\Test\bin\Debug\Entidades.pdb
+H:\Bonetto\Pintureria\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Bonetto\Pintureria\Test\obj\x86\Debug\Test.exe
+H:\Bonetto\Pintureria\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria GERA\Pintureria GERA\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Pintureria GERA\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria NICO\Pintureria NICO\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria gera\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria gera\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria gera\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria nico\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\GeRa\Pintureria gera\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria2\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria2\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria2\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria2\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria gera\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria gera\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria gera\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria nico (sin reportes)\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria Gera (sin reportes)\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Test.exe
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Dropbox\DuoHead\Bonetto Pinureria\Pintureria\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria 23-05-2014\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\Pintureria 07-06-2014\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria 21-08-2014\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 27-08-2014\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 09-09-2014\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\Pintureria 30-01-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 30-01-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Test.exe.config
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Test.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Datos.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Entidades.dll
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Datos.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\Bringa\Desktop\DuoHead\Pintureria 16-02-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 26-03-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Test.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 23-07-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.exe.config
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Datos.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Entidades.dll
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Datos.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\GERA\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 27-07-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Test.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 17-12-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Test.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\obj\x86\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria 28-12-2015\Test\obj\x86\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Test.exe.config
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Test.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Datos.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Entidades.dll
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Datos.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\bin\Debug\Entidades.pdb
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\obj\x86\Debug\Test.exe
+C:\Users\lucero\Desktop\DuoHead\Pintureria\Test\obj\x86\Debug\Test.pdb
